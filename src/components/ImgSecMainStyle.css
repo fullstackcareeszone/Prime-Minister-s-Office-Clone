@@ -1,0 +1,43 @@
+.imgSec {
+  padding-top: 5%;
+  position: relative;
+  display: flex;
+}
+.imgsecdev {
+  border-radius: 10px;
+}
+.imgSec2 {
+  position: absolute;
+  top: 70%;
+  left: 25%;
+  right: 25%;
+}
+.text1 {
+  font-weight: bold;
+  font-size: 50px;
+  transition: 0.3s ease;
+  background-color: darkgreen;
+  color: white;
+  cursor: pointer;
+}
+.text1:hover {
+  font-size: 52px;
+  background-color: lightgreen;
+  color: black;
+}
+.text2 {
+  background-color: green;
+  color: #ffffff;
+}
+
+.btn-PM {
+  border-radius: 20px;
+  background-color: #198754;
+  color: white;
+  transition: 0.3s ease;
+}
+.btn-PM:hover {
+  color: black;
+  background-color: lightgreen;
+  font-size: 17px;
+}
